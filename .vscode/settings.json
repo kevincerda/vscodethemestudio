@@ -1,0 +1,19 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.editor.showTabs": true,
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.ignoreLimitWarning": true
+}
